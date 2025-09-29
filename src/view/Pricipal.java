@@ -1,9 +1,3 @@
-/**
- * Deve ter também uma classe Principal no package view com operações usando JOp�onPane que permita
-ao usuário inserir e validar os documentos de entrada e iniciar um procedimento de impressão. A aplicação
-deve rodar até uma opção de saída ser selecionada pelo usuário
- */
-
 package view;
 
 import br.gui.filagenerica.*;
@@ -52,3 +46,4 @@ public class Pricipal {
 	}
 
 }
+
